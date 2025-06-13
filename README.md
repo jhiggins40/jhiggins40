@@ -1,5 +1,4 @@
 - 👋 Hi, I’m James
-- 👀 I’m interested in Cloud Computing, Cybersecurity, and Audio Engineering Intersections
-- 🌱 I’m currently learning about Secure Cyber Networks and Data Structures
-- 💞️ I’m looking to collaborate on any Cloud Security related projects
-- 📫 How to reach me - jhiggins40@fordham.edu, 610-416-5911
+- 👀 I’m interested in Software, Data Engineering, Cybersecurity, and Audio Engineering Intersections
+- 🌱 I’m currently learning about Data Re-architecture
+- 📫 How to reach me - jhiggins40@fordham.edu, 610-416-5911, https://www.linkedin.com/in/james-higgins-4b3147291/
